@@ -29,7 +29,7 @@ const timer = () => {
 }
 timer()
 
-// for repating 
+// For Repating 
 
 setInterval(
     () => {
